@@ -31,7 +31,7 @@ form the currently assigned PID prefixes.
 
 The informal workgroup members as of June 2020:
 
-- Abacus: **Nicolas Guillet** and Remo Knaus
+- Abacus: Remo Knaus
 - Avaloq: Gino Campolo
 - Billte: Andrea Girasole and Srdjan Micic
 - Epsitec: **Pierre Arnaud**
@@ -41,6 +41,7 @@ The informal workgroup members as of June 2020:
 - Messerli Informatik, Roland Messerli
 - Nintu Informatik: **Eva Sediki** and Beat Meier
 - SIX: Fabio Serratore and Andrey Moiseenko
+- xeFex AG: **Nicolas Guillet**
 
 Translation of the _interface recommendation_ was managed by Adrian Kaufmann (SIX).
 The workgroup is also supported by Oliver Jenny (SIX) and Thomas Reske (SIX).
