@@ -36,7 +36,7 @@ The informal workgroup members as of June 2020:
 - Billte: Andrea Girasole and Srdjan Micic
 - Epsitec: **Pierre Arnaud**
 - GS1: Simon Zbinden
-- InvoCloud: Jean-Claude Gaechter
+- InvoCloud: Fabio Martinetti
 - Medidata: Stefan Staehl
 - Messerli Informatik, Roland Messerli
 - Nintu Informatik: **Eva Sediki** and Beat Meier
